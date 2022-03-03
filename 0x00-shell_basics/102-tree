@@ -1,2 +1,2 @@
 #!/bin/bash
-102 mkdir -p welcome/to/school
+mkdir -p welcome/to/slack
