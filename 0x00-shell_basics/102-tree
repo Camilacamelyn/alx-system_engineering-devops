@@ -1,2 +1,2 @@
- #!/bin/bash
-mkdir -p welcome/to/kenya
+#!/bin/bash
+102 mkdir -p welcome/to/school
