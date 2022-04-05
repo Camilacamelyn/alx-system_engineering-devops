@@ -48,8 +48,8 @@ Write a script that changes the owner to vincent and the group owner to staff fo
 Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 - The file _hello is in the working directory
 - The file _hello is a symbolic link
-#### [16. If only](102-if only)
+#### [16. If only](102-ifonly)
 Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 - The file hello will be in the working directory
-#### [17. Star Wars](103-Star Wars)
+#### [17. Star Wars](103-StarWars)
 Write a script that will play the StarWars IV episode in the terminal.
